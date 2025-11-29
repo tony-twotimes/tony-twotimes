@@ -90,4 +90,5 @@ My goal is to grow my technical cybersecurity foundation through labs, tooling, 
 
 ## Projects
 - Home Cybersecurity Lab (Windows + Linux)
+- Nmap
  
