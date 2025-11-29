@@ -11,7 +11,7 @@ My goal is to grow my technical cybersecurity foundation through labs, tooling, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Home Cybersecurity Lab (Windows + Linux)       | <a href="https://github.com/tony-twotimes/Home-Cybersecurity-Lab-Windows-Linux-">Home Cybersecurity Lab (Windows + Linux)</a>|
-| Placeholder | Placeholder |
+| Nmap | <a href="https://github.com/tony-twotimes/Nmap-">Nmap |
 | Placeholder         | Placeholder|
 | Placeholder      | Placeholder |
 | Placeholder      | Placeholder |
