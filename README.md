@@ -10,9 +10,9 @@ My goal is to grow my technical cybersecurity foundation through labs, tooling, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Home Cybersecurity Lab (Windows + Linux)       | <a href="https://github.com/tony-twotimes/Home-Cybersecurity-Lab-Windows-Linux-">Home Cybersecurity Lab (Windows + Linux)</a>|
+| Home Cybersecurity Lab (Windows + Linux)       | <a href="https://github.com/tony-twotimes/Home-Cybersecurity-Lab-Windows-Linux-">Home Cybersecurity Lab (Windows + Linux)</a> |
 | Nmap | <a href="https://github.com/tony-twotimes/Nmap-">Nmap |
-| Placeholder         | Placeholder|
+| Setting Up Vulnerable Services on a Windows VM Using Docker         | <a href="https://github.com/tony-twotimes/Setting-Up-Vulnerable-Services-on-a-Windows-VM-Using-Docker">Setting Up Vulnerable Services on a Windows VM Using Docker</a> | 
 | Placeholder      | Placeholder |
 | Placeholder      | Placeholder |
 | Placeholder     | Placeholder|
