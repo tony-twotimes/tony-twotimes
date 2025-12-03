@@ -29,7 +29,7 @@ My goal is to grow my technical cybersecurity foundation through labs, tooling, 
   
 </div>
 
-### Foresnics & Log Analysis 
+### Forensics & Log Analysis 
 <div>
 <img src="https://img.shields.io/badge/-Hayabusa-0A5FFF?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -42,6 +42,15 @@ My goal is to grow my technical cybersecurity foundation through labs, tooling, 
 <img src="https://img.shields.io/badge/-Hashcat-800080?style=for-the-badge&logo=hashnode&logoColor=white" />
 <img src="https://img.shields.io/badge/-John%20the%20Ripper-2E8B57?style=for-the-badge&logo=lock&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mimikatz-B22222?style=for-the-badge&logo=security&logoColor=white" />
+
+</div>
+
+
+</div>
+
+### Active Reconnaisance and Enumeration
+<div>
+<img src="https://img.shields.io/badge/-Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 </div>
 
